@@ -4,7 +4,7 @@
 El sistema permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los usuarios registrados.
 Está diseñado para ser utilizado en aplicaciones administrativas donde se necesite llevar un control eficiente de los usuarios.
 
-El frontend está implementado utilizando **JavaScript**, sin el uso de frameworks como Thymeleaf.
+El frontend está implementado utilizando **JavaScript**.
 
 ## Características
 
